@@ -1,7 +1,3 @@
-<p align="center"> 
-<src="https://api.panleyent.com/webence/widget/small/?id=367893062812434432"/><br>
-<img src="https://komarev.com/ghpvc/?username=StarlineBR&color=grey">
-</p>
 ### 👋 Welcome do my Profile!
       
   ##
@@ -29,3 +25,9 @@
   ##
  
  ![Snake animation](https://github.com/1ninjabr/1ninjabr/blob/output/github-contribution-grid-snake.svg)
+   
+  ##
+ 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/1NINJABR/1NINJABR/master/resources/banners/banner.png"/>
+</p>
