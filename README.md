@@ -1,3 +1,7 @@
+<p align="center"> 
+<src="https://api.panleyent.com/webence/widget/small/?id=367893062812434432"/><br>
+<img src="https://komarev.com/ghpvc/?username=StarlineBR&color=grey">
+</p>
 ### 👋 Welcome do my Profile!
       
   ##
@@ -7,7 +11,6 @@
     <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
     <a href="https://www.discord.com/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
     <a href="https://www.paypal.com/" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" target="_blank"></a>
-    <a href="https://www.paypal.com/" target="_blank"><img src="http://ForTheBadge.com/images/badges/built-with-science.svg" target="_blank"></a>
  <div>
       
   ##
