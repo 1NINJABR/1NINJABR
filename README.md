@@ -23,15 +23,3 @@
  <div>
  
  ![Snake animation](https://github.com/1ninjabr/1ninjabr/blob/output/github-contribution-grid-snake.svg)
-   
-  ##
- 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/1NINJABR/1NINJABR/master/resources/banners/banner.png"/>
-</p>
-      
-  ##
- 
-### Spotify Playing 🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=alexjunioralves31&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=alexjunioralves31&redirect=true)
----
