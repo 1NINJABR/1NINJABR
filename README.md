@@ -1,17 +1,17 @@
 ### 👋 Welcome do my Profile!
 
  <div>
+    <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+    <a href="https://www.discord.com/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+    <a href="https://www.paypal.com/" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" target="_blank"></a>
+ <div>
+
+ <div>
   <a href="https://github.com/1ninjabr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1ninjabr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
       
   ##
  
-   
- <div>
-    <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-    <a href="https://www.discord.com/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-    <a href="https://www.paypal.com/" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" target="_blank"></a>
- <div>
    
 </div>
 <div style="display: inline_block"><br>
